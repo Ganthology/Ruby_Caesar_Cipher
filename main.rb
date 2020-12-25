@@ -26,3 +26,4 @@ end
 # （code + shift - baseline）%26 +baseline 
 
 puts caesar_cipher("What a string!", 5)
+puts caesar_cipher("What a string!", -1)
